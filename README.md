@@ -117,10 +117,11 @@ Olá! Sou Lucas Almeida, desenvolvedor web apaixonado por tecnologia e soluçõe
 ### 📊 Estatísticas
 
 <img 
-  alt="GitHub Stats" 
+  alt="Estatísticas do GitHub" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=me-lucas-al&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=me-lucas-al&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
 />
+
 
 <br/>
 
