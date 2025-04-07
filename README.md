@@ -56,7 +56,7 @@ Olá! Sou Lucas Almeida, desenvolvedor web apaixonado por tecnologia e soluçõe
     align="left" 
     alt="Node.js"
     title="Node.js"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" 
 />
