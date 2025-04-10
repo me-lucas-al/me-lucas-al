@@ -1,14 +1,17 @@
-<h2 align="left">Hi 👋! My name is Lucas Almeida and I'm a Full-Stack Developer, from Brazil 🇧🇷</h2>
+# 👨‍💻 Lucas Almeida
 
-###
+**`Desenvolvedor Web`**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-lucas-al&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Olá! Sou Lucas Almeida, desenvolvedor web apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Spring Boot e SQL. Tenho facilidade em aprender, resolver problemas e transformar ideias em soluções reais. Atualmente, estou me especializando em Node.js, MongoDB, Java e Teste Unitários (Jest), ampliando meus conhecimentos em back-end e desenvolvimento fullstack.
 
-<div align="left">
-  <img 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-development/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.lucasalmeida@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas._almeiidaa/)
+
+### 🚀 Linguagens e Tecnologias
+
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -107,23 +110,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=me-lucas-al&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="mailto:lucasdevsystem@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-almeida-development" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+</p>
