@@ -110,4 +110,8 @@ Olá! Sou Lucas Almeida, desenvolvedor web apaixonado por tecnologia e soluçõe
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=me-lucas-al&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=370&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
