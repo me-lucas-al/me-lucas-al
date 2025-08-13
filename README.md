@@ -114,3 +114,4 @@ Olá! Sou Lucas Almeida, desenvolvedor web apaixonado por tecnologia e soluçõe
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 
 
+
