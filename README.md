@@ -7,7 +7,6 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-development/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.lucasalmeida@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.almeiidaa__/)
 
 ### 🚀 Linguagens e Tecnologias
 
@@ -101,6 +100,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
 
 
 
