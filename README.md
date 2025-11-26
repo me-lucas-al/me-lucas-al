@@ -33,7 +33,14 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="PostgreSQL"
@@ -99,6 +106,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
 
 
 
