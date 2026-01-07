@@ -103,10 +103,11 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stacks e Estatísticas
 
- 
+ https://gitcards.api.victorlisbronzo.me/card/cmk428u6x00041ujph95cvp8c?v=plyzti
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
 
 
 
