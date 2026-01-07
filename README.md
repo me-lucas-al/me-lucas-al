@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer e trabalhos formais em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Node, Next, TypeScript, SQL e PostgreSQL.
+Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer e trabalhos formais em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Node, Next, TypeScript, Prisma ORM e PostgreSQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-development/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
@@ -76,12 +76,13 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL"
+    alt="Prisma"
+    title="Prisma ORM"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
+
 <img 
     align="left" 
     alt="HTML"
@@ -106,6 +107,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=me-lucas-al&locale=en&hide_title=false&layout=compact&&custom_title=Tecnologias&card_width=370&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
 
 
 
