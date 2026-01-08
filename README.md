@@ -103,10 +103,9 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 <br/>
 <br/>
 
-### 📊 Stacks e Estatísticas
+### 💻 Stacks
 
 ![](https://gitcards.api.victorlisbronzo.me/card/cmk428u6x00041ujph95cvp8c?v=plyzti)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
 
 
 
