@@ -1,5 +1,4 @@
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3jdf000g0is0eqxezacg?v=j1l066)
-![](https://gitassets.victorlisbronzo.me/api/card/cmlze38db00060is0i6z3p5j4?v=ya7ehn)
 
 Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer e trabalhos formais em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Node, Next, TypeScript, Prisma ORM e PostgreSQL.
 
@@ -7,7 +6,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.lucasalmeida@gmail.com)
 
-### 💻 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <img 
     align="left" 
     alt="TypeScript"
@@ -105,6 +104,11 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 ---
 
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3e9f000d0is09oepyukp?v=fiixh4)
+
+
+### Trajetória
+![](https://gitassets.victorlisbronzo.me/api/card/cmlze38db00060is0i6z3p5j4?v=ya7ehn)
+
 
 
 
