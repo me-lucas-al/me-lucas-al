@@ -105,7 +105,8 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
 ---
 
-![](https://gitassets.victorlisbronzo.me/api/card/cmk428u6x00041ujph95cvp8c?v=by23l9)
+![](https://gitassets.victorlisbronzo.me/api/card/cmlze3e9f000d0is09oepyukp?v=fiixh4)
+
 
 
 
