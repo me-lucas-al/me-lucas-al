@@ -1,5 +1,3 @@
-# Lucas Almeida
-
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3jdf000g0is0eqxezacg?v=j1l066)
 
 Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer e trabalhos formais em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Node, Next, TypeScript, Prisma ORM e PostgreSQL.
@@ -106,6 +104,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 ---
 
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3e9f000d0is09oepyukp?v=fiixh4)
+
 
 
 
