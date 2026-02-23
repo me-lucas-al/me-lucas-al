@@ -1,4 +1,7 @@
-# 👨‍💻 Lucas Almeida
+# Lucas Almeida
+
+![](https://gitassets.victorlisbronzo.me/api/card/cmlze3jdf000g0is0eqxezacg?v=j1l066)
+
 
 **`Desenvolvedor Full Stack`**
 
@@ -106,6 +109,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 ---
 
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3e9f000d0is09oepyukp?v=fiixh4)
+
 
 
 
