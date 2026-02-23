@@ -83,19 +83,11 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Jest"
+    title="Jest" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
 />
 
 <br/>
@@ -108,6 +100,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
 ### Trajetória
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze38db00060is0i6z3p5j4?v=ya7ehn)
+
 
 
 
