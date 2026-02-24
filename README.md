@@ -4,11 +4,13 @@
 
 ### Sobre mim
 
-Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e soluções criativas. Curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista e programo desde os 16 anos, quando iniciei o curso técnico em Informática. Já atuei como freelancer e trabalhos formais em projetos voltados para responsividade, performance e usabilidade, usando tecnologias como HTML, CSS, React, Node, Next, TypeScript, Prisma ORM e PostgreSQL.
+Olá! Sou Lucas Almeida, desenvolvedor Full Stack apaixonado por tecnologia e por construir soluções eficientes. Comecei minha jornada na programação aos 16 anos no curso técnico em Informática e, hoje, curso Análise e Desenvolvimento de Sistemas no IFSP – Bragança Paulista.
+
+Com experiência sólida em projetos freelance e atuações formais, meu foco é entregar aplicações com alta performance, responsividade e excelente usabilidade.
 
 ---
 
-### Linguagens e Tecnologias
+### Principais tecnologias
 <img 
     align="left" 
     alt="React"
@@ -47,15 +49,6 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
 <img 
     align="left" 
-    alt="Jest"
-    title="Jest" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
-/>
-
-<img 
-    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL"
     width="30px" 
@@ -65,29 +58,11 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 
 <img 
     align="left" 
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Prisma"
     title="Prisma ORM"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Fastify"
-    title="Fastify"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
 
 <img 
@@ -112,6 +87,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 <br/>
 
 ---
+### Stack 
 
 ![](https://gitassets.victorlisbronzo.me/api/card/cmlze3e9f000d0is09oepyukp?v=fiixh4)
 
@@ -127,6 +103,7 @@ Olá! Sou Lucas Almeida, desenvolvedor full stack apaixonado por tecnologia e so
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-development/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.lucasalmeida@gmail.com)
+
 
 
 
