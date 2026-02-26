@@ -98,13 +98,13 @@ Com experiência sólida em projetos freelance e atuações formais, meu foco é
 
 ---
 
-### Contatos
+### Contatos & Informações
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-development/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511917609074&text=Ol%C3%A1+Lucas%21&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.lucasalmeida@gmail.com)
-
-
+[![Currículo PT](https://img.shields.io/badge/Curr%C3%ADculo_PT-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/145nnzLHLlkUMpumXU_oT0T1dXjqnUOJ_/view?usp=sharing)
+[![Resume EN](https://img.shields.io/badge/Resume_EN-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1r-buCGPwzNeRhXUnj5XNe_6aSErGNsKW/view?usp=sharing)
 
 
 
